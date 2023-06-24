@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>help.43be3ea6-cc52-11ec-ae9e-04ea56e2f17f.jpg</filename>
+	<path>D:\ANPR\Tensorflow\workspace\images\collectedimages\help.43be3ea6-cc52-11ec-ae9e-04ea56e2f17f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Help</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>158</ymin>
+			<xmax>573</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>
