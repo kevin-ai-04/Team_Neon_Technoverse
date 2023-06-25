@@ -1,7 +1,7 @@
 <annotation>
-	<folder>I love you</folder>
+	<folder>collectedimages</folder>
 	<filename>I_love_you 9.44.04 PM.jpeg</filename>
-	<path>C:\Users\HP\Downloads\I love you-20230624T162225Z-001\I love you\I_love_you 9.44.04 PM.jpeg</path>
+	<path>C:\Team_Neon_Technoverse\dataset\collectedimages\I_love_you 9.44.04 PM.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>I Love You</name>
+		<name>I love you</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>828</xmin>
-			<ymin>4</ymin>
+			<xmin>873</xmin>
+			<ymin>1</ymin>
 			<xmax>1280</xmax>
-			<ymax>531</ymax>
+			<ymax>475</ymax>
 		</bndbox>
 	</object>
 </annotation>
