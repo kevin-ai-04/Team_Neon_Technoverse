@@ -1,7 +1,7 @@
 <annotation>
 	<folder>collectedimages</folder>
 	<filename>Thanks 8.45.07 PM (5).jpeg</filename>
-	<path>C:\Users\HP\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Thanks 8.45.07 PM (5).jpeg</path>
+	<path>C:\Team_Neon_Technoverse\dataset\collectedimages\Thanks 8.45.07 PM (5).jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>Thanks</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>252</xmin>
-			<ymin>350</ymin>
-			<xmax>969</xmax>
-			<ymax>630</ymax>
+			<xmin>339</xmin>
+			<ymin>357</ymin>
+			<xmax>862</xmax>
+			<ymax>720</ymax>
 		</bndbox>
 	</object>
 </annotation>

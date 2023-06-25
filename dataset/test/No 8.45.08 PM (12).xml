@@ -1,7 +1,7 @@
 <annotation>
 	<folder>collectedimages</folder>
-	<filename>Thanks 8.45.07 PM (4).jpeg</filename>
-	<path>C:\Team_Neon_Technoverse\dataset\collectedimages\Thanks 8.45.07 PM (4).jpeg</path>
+	<filename>No 8.45.08 PM (12).jpeg</filename>
+	<path>C:\Team_Neon_Technoverse\dataset\collectedimages\No 8.45.08 PM (12).jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Thanks</name>
+		<name>No</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>447</xmin>
-			<ymin>486</ymin>
-			<xmax>780</xmax>
-			<ymax>666</ymax>
+			<xmin>795</xmin>
+			<ymin>288</ymin>
+			<xmax>1144</xmax>
+			<ymax>491</ymax>
 		</bndbox>
 	</object>
 </annotation>

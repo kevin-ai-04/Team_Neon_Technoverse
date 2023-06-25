@@ -1,7 +1,7 @@
 <annotation>
 	<folder>collectedimages</folder>
-	<filename>WhatsApp Image 2023-06-24 at 8.45.08 PM (7).jpeg</filename>
-	<path>C:\Users\HP\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\WhatsApp Image 2023-06-24 at 8.45.08 PM (7).jpeg</path>
+	<filename>No 8.45.08 PM (7).jpeg</filename>
+	<path>C:\Team_Neon_Technoverse\dataset\collectedimages\No 8.45.08 PM (7).jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>235</xmin>
-			<ymin>124</ymin>
-			<xmax>745</xmax>
-			<ymax>540</ymax>
+			<xmin>292</xmin>
+			<ymin>213</ymin>
+			<xmax>704</xmax>
+			<ymax>479</ymax>
 		</bndbox>
 	</object>
 </annotation>
